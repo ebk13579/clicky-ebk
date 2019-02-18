@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/Russians.jpg",
+    "image": "assets/images/Russians.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/Russian_Roulette.jpg",
+    "image": "assets/images/Russian_Roulette.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/Best_of_Enemies.jpg",
+    "image": "assets/images/Best_of_Enemies.jpg",
     "clicked": false
   },
   {
