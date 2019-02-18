@@ -5,7 +5,7 @@ const Header = props => (
   <header className="header">
     <h1>Clicky Game!</h1>
     <h2>
-      Click on ANY image to earn - clicking on the same image twice is a no-no.
+      Click on ANY image to earn points; clicking on the same image twice is proscribed.
     </h2>
   </header>
 );
